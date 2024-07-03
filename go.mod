@@ -1,3 +1,3 @@
-module github.com/thiagomowszet/Hour-i3
+module hour
 
-go 1.21.2
+go 1.22.3

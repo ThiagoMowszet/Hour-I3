@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
-	"os/exec"
 	"encoding/json"
+	"fmt"
 	"net/http"
+	"os/exec"
+	_ "strings"
 	"time"
-	_"strings"
 )
 
 type WorldTimeResponse struct {
